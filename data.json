@@ -1,0 +1,102 @@
+{ "projects": [
+    {"id":0,
+    "project_name": "Personal Website",
+    "description": "Personal Website for showing my designs and projects. Most of the projects are designed with scketch and Adobe XD.",
+    "technologies": [
+        "React",
+        "CSS",
+        "HTML",
+        "JavaScript"
+    ],
+    "image_url":[
+        "/static/images/az1.png",
+        "/static/images/az2.png",
+        "/static/images/az3.png"
+    ],
+    "links":[
+        "http://azinmobed.com/"
+    ]
+    }
+    ,{"id":1,
+    "project_name": "Monitoring Dashboard",
+    "description": "Energy Monitoring dashboard for gas, water, and electricity clients can use this dashboard to monitor the usage and save money.",
+    "technologies": [
+        "React",
+        "Redux",
+        "CSS",
+        "HTML",
+        "JavaScript"
+    ],
+    "image_url":[
+        "/static/images/em2.png",
+        "/static/images/em1.png",
+        "/static/images/em3.png"
+    ]
+    ,
+    "links":[
+        "http://edgecomenergy.ca"
+    ]
+    },{"id":2,
+    "project_name": "Darwino",
+    "description": "Special design for online learning courses in the biology field. In this project, I used Sketch and Invision apps for sharing designs. ",
+    "technologies": [
+        "Skecth",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JQuery"
+    ],
+    "image_url":[
+        "/static/images/Darwino4.png",
+        "/static/images/Darwino2.png"
+    ]
+    },
+    {"id":3,
+    "project_name": "Komoda",
+    "description": "Online shop for selling and buying second handed stuffs. I used Sketch for UI design and Invision app for sharing the designs.",
+    "technologies": [
+        "Skecth",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JQuery"
+    ],
+    "image_url":[
+        "/static/images/komoda1.jpg",
+        "/static/images/komoda2.jpg"
+
+    ]
+    },
+    {"id":4,
+    "project_name": "Pagination",
+    "description": "Full stack development class project. To use data and render the list on page",
+    "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "image_url":[
+        "/static/images/pagination.png",
+        "/static/images/pagination2.png"
+    ] ,
+    "links":[
+        "https://github.com/azinmbd/Lab1.git",
+        "https://azinmbd.github.io/Lab1/"
+    ]
+    },
+    {"id":5,
+    "project_name": "React Component",
+    "description": "Rendeding a list of components and using react state to change the state of the page.",
+    "technologies": [
+        "React",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "image_url":[
+        "/static/images/React1.png",
+        "/static/images/React2.png"
+    ] 
+    }
+]}
+  
